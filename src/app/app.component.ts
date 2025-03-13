@@ -10,4 +10,5 @@ import { RouterOutlet } from "@angular/router";
 })
 export class AppComponent {
   title = "testing-semanting-release v1 breaking change";
+  description: string = "this is a description";
 }
