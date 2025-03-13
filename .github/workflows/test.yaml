@@ -16,7 +16,3 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: rm -rf node_modules
-      - uses: ./
-      - uses: ./
-        with:
-          person: "release Bot"
