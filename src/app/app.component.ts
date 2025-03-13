@@ -9,5 +9,5 @@ import { RouterOutlet } from "@angular/router";
   styleUrl: "./app.component.scss",
 })
 export class AppComponent {
-  title = "testing-semanting-release v1";
+  title = "testing-semanting-release v1 breaking change";
 }
